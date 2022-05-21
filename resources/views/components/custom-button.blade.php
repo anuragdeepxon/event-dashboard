@@ -1,0 +1,1 @@
+<button type="button" id="{{ $id }}" class=" btn ml-2 btn-primary">{{ $id }}</button>
